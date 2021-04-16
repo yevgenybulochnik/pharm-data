@@ -1,5 +1,5 @@
 import pytest
-from rx.core import parseAttribute
+from rxnorm.core import parseAttribute
 
 test_data = [
     ('testkey', [{'testkey': 1}, {'testkey': 2}], [1,2])
