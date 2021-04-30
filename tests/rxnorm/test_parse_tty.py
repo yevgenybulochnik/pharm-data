@@ -1,5 +1,5 @@
 import pytest
-from rxnorm.core import parseTTY
+from phdata.rxnorm import parseTTY
 
 
 test_data = [
